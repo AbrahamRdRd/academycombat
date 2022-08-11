@@ -1,2 +1,2 @@
 # combatacademy
-La meor plataforma de MMA en español.
+La mejor plataforma de MMA en español.
